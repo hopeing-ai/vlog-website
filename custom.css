@@ -1,0 +1,35 @@
+.box{
+    Width:300px;
+    Height:200px;
+    background-color: rgb(2, 255, 221); 
+    color:rgb(255, 255, 255); 
+    Border:5px solid black;
+    padding:20px;
+    Margin: 50px;
+}
+nav {
+    background-color: #16d293;
+    padding: 10px;
+    border-bottom: 1px solid #6ba0c3;
+}
+
+nav ul {
+    list-style-type: style type hexagon;;
+    margin: 110;
+    padding: 110;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 110px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: #89f0e4;
+}
