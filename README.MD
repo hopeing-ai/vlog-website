@@ -32,4 +32,4 @@
 * Switch off the oven.
 * Cut the pizza to your liking.
 * Enjoy!   
-![Picture of pizza](https://www.google.com/imgres?q=image%20of%20pizza&imgurl=https%3A%2F%2Fwww.foodandwine.com%2Fthmb%2FWd4lBRZz3X_8qBr69UOu2m7I2iw%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fclassic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg&imgrefurl=https%3A%2F%2Fwww.foodandwine.com%2Frecipes%2Fclassic-cheese-pizza&docid=mUmiEmWVfPIjPM&tbnid=ZiJze8NWYgm1BM&vet=12ahUKEwie9J_0w-WJAxWg-QIHHfPuDYEQM3oECGcQAA..i&w=1500&h=1000&hcb=2&ved=2ahUKEwie9J_0w-WJAxWg-QIHHfPuDYEQM3oECGcQAA)
+![Picture of pizza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPu63zcTYsjwg-suquc0qnTH2j_Ar1RaScg&s)
