@@ -1,3 +1,9 @@
 # How to make a pizza **Margarita**
 ## Ingridients
-* Wheat 
+* Flour 
+* Yeast
+* Water
+* Tray
+* Cheese
+* Mittens
+* Tomato paste
