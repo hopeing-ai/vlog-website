@@ -32,4 +32,4 @@
 * Switch off the oven.
 * Cut the pizza to your liking.
 * Enjoy!   
-![Picture of pizza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lj3_8eh0xYQLDhyh1pYwOF6l00mL7hIfww&s)
+![Picture of pizza](https://www.google.com/imgres?q=cheese%20pizza%20images%20margarita%20margherita%20pizza&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1393150881%2Fphoto%2Fitalian-pizza-margherita-with-cheese-and-tomato-sauce-on-the-board-on-grey-table-macro-close.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DkL0Vhg2XKBjEl__iG8sFv31WTiahdpLc3rTDtNZuD2g%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fpizza-margherita&docid=1JwHG6ydHVVjTM&tbnid=ZFdgdbyBIimbiM&vet=12ahUKEwjGouKLw-WJAxX72wIHHZ6-GY8QM3oECFUQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwjGouKLw-WJAxX72wIHHZ6-GY8QM3oECFUQAA)
