@@ -4,6 +4,7 @@
 * Yeast
 * Water
 * Tray
+* Basil
 * Cheese
 * Butter/Margarine
 * Rollling pin
