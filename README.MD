@@ -14,7 +14,7 @@
 * Pre heat the oven to 250 degrees celcious.
 * Mix 3 cups of flour and 1.5 teaspoons of yeast.
 * After mixing add some warm water not hot water.
-* Add until the yeast flour and water become dough.
+* Add until the yeast,flour and water become dough.
 * While it is still in the container cover the dough with a towel.
 * After about 1 hour,the yeast should be raised.
 * Spread the flour evenly an the cooking surface.
